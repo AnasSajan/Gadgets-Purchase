@@ -1,2 +1,2 @@
 # Gadgets-Purchase
-Adds the gadgets purchased to cart
+Adds the price of gadgets purchased to total
